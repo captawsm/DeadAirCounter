@@ -8,3 +8,13 @@ h:\jazzman76063\my documents\visual studio 2013\Projects\DeadAirCounter\DeadAirC
 h:\jazzman76063\my documents\visual studio 2013\Projects\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.exe
 h:\jazzman76063\my documents\visual studio 2013\Projects\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.xml
 h:\jazzman76063\my documents\visual studio 2013\Projects\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.pdb
+F:\Development\DeadAirCounter\DeadAirCounter\bin\Debug\DeadAirCounter.exe.config
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.exe
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.xml
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.pdb
+F:\Development\DeadAirCounter\DeadAirCounter\bin\Debug\DeadAirCounter.exe
+F:\Development\DeadAirCounter\DeadAirCounter\bin\Debug\DeadAirCounter.pdb
+F:\Development\DeadAirCounter\DeadAirCounter\bin\Debug\DeadAirCounter.xml
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.Form1.resources
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.Resources.resources
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.vbproj.GenerateResource.Cache

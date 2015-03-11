@@ -49,6 +49,8 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(114, 96)
         Me.Controls.Add(Me.Label1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "Form1"
         Me.Text = "DeadAirCounter"
         Me.TopMost = True
