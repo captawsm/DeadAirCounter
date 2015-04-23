@@ -5,10 +5,10 @@
     <ROW Property="ALLUSERS" Value="1" MultiBuildValue="DefaultBuild:"/>
     <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
     <ROW Property="Manufacturer" Value="CaptAwsm"/>
-    <ROW Property="ProductCode" Value="1033:{37DF6894-FD0D-4D03-A646-8BE340DA487F} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{07B9CCDA-4FB7-41A0-BD15-37654438EF0C} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="Dead Air Counter"/>
-    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="ProductVersion" Value="1.0.1" Type="32"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
     <ROW Property="UpgradeCode" Value="{0D3CB869-3BF4-48E2-B885-D4246CC3AF01}"/>
     <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
