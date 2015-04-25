@@ -18,3 +18,4 @@ F:\Development\DeadAirCounter\DeadAirCounter\bin\Debug\DeadAirCounter.xml
 F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.Form1.resources
 F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.Resources.resources
 F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.vbproj.GenerateResource.Cache
+F:\Development\DeadAirCounter\DeadAirCounter\obj\Debug\DeadAirCounter.vbprojResolveAssemblyReference.cache
